@@ -25,7 +25,7 @@ pip install wheel
 pip install --upgrade google-api-python-client
 pip install --upgrade pyinstaller
 pip install --upgrade google-cloud-speech
-pip istall pyistaller
+pip istall pyistaller  [ to make exe from .py ]
 pip install mysqlclient
 
 ##################################################################################
