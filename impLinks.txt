@@ -23,9 +23,9 @@ pip install SpeechRecognition
 pip install pyaudio
 pip install wheel
 pip install --upgrade google-api-python-client
- pip install --upgrade pyinstaller
+pip install --upgrade pyinstaller
 pip install --upgrade google-cloud-speech
-
+pip install mysqlclient
 
 ##################################################################################
 nlp:
